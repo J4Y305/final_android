@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="zoom_in" />
+    <drawable name="zoom_out" />
+    <drawable name="rotate" />
+    <drawable name="bright" />
+    <drawable name="dark" />
+    <drawable name="gray" />
+    <drawable name="dog" />
+</resources>

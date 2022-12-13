@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/zoomin"
+        android:title="확대">
+    </item>
+    <item
+        android:id="@+id/zoomout"
+        android:title="축소">
+    </item>
+    <item
+        android:id="@+id/rotation"
+        android:title="회전">
+    </item>
+    <item
+        android:id="@+id/bright"
+        android:title="밝게">
+    </item>
+    <item
+        android:id="@+id/dark"
+        android:title="어둡게">
+    </item>
+    <item
+        android:id="@+id/gray"
+        android:title="회색">
+    </item>
+</menu>
